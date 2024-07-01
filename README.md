@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Javascript, HTML, CSS**
 
-- 📫 React me at **bhawnaparasher2012@gmail.com**
+- 📫 Reach me at **bhawnaparasher2012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
